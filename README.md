@@ -34,30 +34,37 @@ The primary objectives of this project are:
 # Analysis:
 1. **Missing Data Identification and Handling.**
 
-- **Objective:** 
+- **Objective:**
+
 To Identify missing data points in the loan application dataset and handle it appropriately to maintain the accuracy of the analysis.
 
-- **Steps:** 
+- **Steps:**
+
 Used Excel functions like COUNT, ISBLANK, and IF to identify missing data.
 
 Applyied imputation methods such as AVERAGE or MEDIAN to fill in missing values.
 
-- **Visualization:** 
+- **Visualization:**
+
 A bar chart, representing the proportion of missing values for each variable.
 
 2. **Identification of Outliers.**
-- **Objective:** 
+- **Objective:**
+
 Detecting the possible outliers in the dataset, focusing on numerical variables, and assess their impact on the analysis.
 - **Steps:**
+
 Used Excel functions like QUARTILE and IQR to identify outliers.
 
 Applied conditional formatting to highlight potential outliers and determine if they are valid or require further investigation.
 
-- **Visualization:** 
+- **Visualization:**
+
 Scatter plot to visualize the distribution of numerical variables and highlight outliers.
 
 3. **Analyze Data Imbalance**
-- **Objective:** 
+- **Objective:**
+
 Determination if there is a data imbalance in the dataset and calculation of the ratio of data imbalance, which is critical for reliable model-building.
 
 - **Steps:**
@@ -66,12 +73,14 @@ Used Excel functions like COUNTIF and SUM to calculate the class proportions.
 
 Assessed the frequency of each class to understand the extent of imbalance.
 
-- **Visualization:** 
+- **Visualization:**
+
 A pie chart, visualising the distribution of the target variable and highlight the imbalance.
 
 4. **Univariate, Segmented Univariate, and Bivariate Analysis.**
 
-- **Objective:** 
+- **Objective:**
+
 Conduct of various analyses to gain insights into the factors driving loan defaults.
 
 - **Steps:**
@@ -83,11 +92,13 @@ Conducted segmented univariate analysis to compare distributions across differen
 Exploration of bivariate relationships between variables and the target variable.
 
 - **Visualization:**
+
 Column charts, visualising the distributions and relationships.
 
 5. **Identify Top Correlations for Different Scenarios.**
 
 - **Objective:**
+
 Segment the dataset by different scenarios and identify the top correlations between variables and the target variable.
 
 - **Steps:**
