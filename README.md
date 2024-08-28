@@ -164,7 +164,7 @@ https://www.loom.com/share/00f0b8072f4b492684f82f4cdaca7858?sid=8972302a-0492-4f
 
 - Email: subha.mainak@gmail.com
 
-- Linkedin: www.linkedin.com/in/mainakmukherjee08
+- Linkedin: www.linkedin.com/in/mainak8
 
 
 ### Concepts Used
